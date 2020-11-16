@@ -1,1 +1,1 @@
-# py-hesap-makinasi
+# Basit bir hesap makinası. Can sıkıntısından yapıldı.
