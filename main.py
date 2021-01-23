@@ -4,7 +4,6 @@ islem = input("""
 Toplama - 1
 Çıkarma - 2
 Bölme   - 3
-Üs alma - 4
 
 İşlem: """)
 
